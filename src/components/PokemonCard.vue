@@ -36,14 +36,10 @@ export default {
 </script>
 
 <style scoped>
-/* Si tienes estilos específicos para PokemonCard, puedes incluirlos aquí */
 .pokemon-card {
-  /* Estilos de la tarjeta */
 }
 .pokemon-card.selected {
-  /* Estilos cuando está seleccionada */
 }
 .pokemon-image {
-  /* Estilos de la imagen */
 }
 </style>
